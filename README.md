@@ -46,7 +46,6 @@ currently in, to the file you're trying to import from. For example, if you are
 in the `src/components/About.js` file and want to import from the
 `src/data/user.js` file, the relative path is `../data/user` (go up one
 directory, into the `data` folder, and into the `user` file).
-
 ## Resources
 
 - [MDN Import Documentation][import]
